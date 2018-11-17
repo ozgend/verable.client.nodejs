@@ -1,0 +1,11 @@
+{
+  "name": "verable-client",
+  "version": "1.0.0",
+  "description": "poor man's service discovery client",
+  "main": "verable-beacon.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ozgend",
+  "license": "ISC"
+}
